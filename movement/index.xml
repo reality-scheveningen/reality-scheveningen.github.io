@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movements on Reality Scheveningen</title>
+    <link>http://reality-scheveningen.github.io/movement/</link>
+    <description>Recent content in Movements on Reality Scheveningen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-nl</language>
+    <atom:link href="http://reality-scheveningen.github.io/movement/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Love Kingdom Life</title>
+      <link>http://reality-scheveningen.github.io/movement/lkl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://reality-scheveningen.github.io/movement/lkl/</guid>
+      <description>&lt;p&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;div class=&#34;prezi-player&#34;&gt;
+&lt;style type=&#34;text/css&#34; media=&#34;screen&#34;&gt;.prezi-player { width: 800px; } .prezi-player-links { text-align: center; }&lt;/style&gt;
+&lt;object id=&#34;prezi_jd2qruijpl3o&#34; name=&#34;prezi_jd2qruijpl3o&#34; classid=&#34;clsid:D27CDB6E-AE6D-11cf-96B8-444553540000&#34; width=&#34;800&#34; height=&#34;600&#34;&gt;
+&lt;param name=&#34;movie&#34; value=&#34;http://prezi.com/bin/preziloader.swf&#34; /&gt;
+&lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34; /&gt;
+&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34; /&gt;
+&lt;param name=&#34;bgcolor&#34; value=&#34;#ffffff&#34; /&gt;
+&lt;param name=&#34;flashvars&#34; value=&#34;prezi_id=jd2qruijpl3o&amp;amp;lock_to_path=0&amp;amp;color=ffffff&amp;amp;autoplay=no&amp;amp;autohide_ctrls=0&#34; /&gt;
+&lt;embed id=&#34;preziEmbed_jd2qruijpl3o&#34; name=&#34;preziEmbed_jd2qruijpl3o&#34; src=&#34;http://prezi.com/bin/preziloader.swf&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; allowscriptaccess=&#34;always&#34; width=&#34;800&#34; height=&#34;600&#34; bgcolor=&#34;#ffffff&#34; flashvars=&#34;prezi_id=jd2qruijpl3o&amp;amp;lock_to_path=0&amp;amp;color=ffffff&amp;amp;autoplay=no&amp;amp;autohide_ctrls=0&#34;&gt;
+&lt;/embed&gt;&lt;/object&gt;
+&lt;div class=&#34;prezi-player-links&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>http://reality-scheveningen.github.io/movement/twitter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://reality-scheveningen.github.io/movement/twitter/</guid>
+      <description>
+
+&lt;h2 id=&#34;wat-is-twitter:cce2363f2ffe83196d44b00404878af5&#34;&gt;wat is twitter&lt;/h2&gt;
+
+&lt;p&gt;Met Twitter kun je snel korte berichten uitwisselen met andere gebruikers. Dat wordt &amp;ldquo;twitteren&amp;rdquo; genoemd.
+Twitter is een netwerk waarbij je vrienden kan toevoegen van wie jij de berichten leest. Jouw vrienden kunnen ook jouw account &amp;ldquo;volgen&amp;rdquo; waardoor zij jouw berichten zien.
+Je kan ons &lt;a href=&#34;http://twitter.com/twitreality&#34;&gt;hier&lt;/a&gt; volgen.&lt;br /&gt;
+Op deze pagina vind je de tweets van Reality (links) en van anderen die @twitreality noemen in hun bericht (rechts).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>nieuws</title>
+      <link>http://reality-scheveningen.github.io/movement/nieuws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://reality-scheveningen.github.io/movement/nieuws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>weblog</title>
+      <link>http://reality-scheveningen.github.io/movement/weblog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://reality-scheveningen.github.io/movement/weblog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
